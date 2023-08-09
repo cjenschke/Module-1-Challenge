@@ -1,17 +1,10 @@
 # Module-1-Challenge
-* AS A marketing agency I WANT a codebase that follows accessibility stands SO THAT our own site is optimized for search engines
+*Optimized codebase to follow accessibility standards for search engines.
 
-## Acceptance Criteria
-* GIVEN a webpage meets accessibility standards
-* WHEN I view the source code
-* THEN I find semantic HTML elements
-* WHEN I view the structure of the HTML elements
-* THEN I find that the elements follow a logical structure independent of styling and positioning
-* WHEN I view the image elements
-* THEN I find accessible alt attributes
-* WHEN I view the heading attributes
-* THEN they fall in sequential order
-* WHEN I view the title element
-* THEN I find a concise, descriptive title
+## Description
+* Viewed source code to find ways to update using semantic HTML elements.  Created logical structure independent of styling and positioning.  Fixed issue with links not working and added a search title "Horiseon Accessiblity Standards".  Updated heading attributes to fall in sequential order.  
 
-[Website](https://cjenschke.github.io/Module-1-Challenge)
+<img src="./Develop/assets/images/photo1.png"></img>
+<img src="./Develop/assets/images/photo2.png"></img>
+
+[Horiseon](https://cjenschke.github.io/Module-1-Challenge)
